@@ -1,0 +1,27 @@
+Game Design Document
+Jason Johnson
+DIG3480
+
+Press T to activate the "Time Attack" mode
+
+Original Challenge:
+I did not need to make any changes to the Tutorial 3 Challenge.
+
+Visual Change:
+I gave it a sort of classic asteroids feel by removing the textures from the objects and replacing them with a solid white.
+I changed the background to a solid black image with white dots this background also speeds up gradually when you activate the time attack mode. 
+
+Audio Change:
+I added the coin pickup sound clip from Tutorial 2.5 and made it play when ever you pickup one of the fire rate pickup.
+
+Gameplay Change one:
+I added a pickup and when the player collides with said pickup, the pickup disappears and the player's fire rate increases by 10% each time they collide with a pickup.
+Since the game is so short I thought it would be fun for the player to not have a limit on the pickup so if they desired the could have basically a death laser.
+As said in the audio change the coin pickup sound plays.
+I believe that this would go under the I WOULD consider "significant” and “original” category because it is a new pickup that increases the fire rate of the player
+
+Gameplay Change two:
+I added a time attack mode which is activated by pressing the T key.
+The player will have to survive for 30 seconds to get the highest score they can.
+As said in the visual change the background speeds up.
+I believe that this would go under the I WOULD consider "significant” and “original” category because it is a time attack mode which you had suggested would fall in that category.
